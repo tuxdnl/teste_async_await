@@ -1,0 +1,6 @@
+C:\VS2010_Projects\TesteAsyncAwait\TesteAsyncAwait\bin\Debug\TesteAsyncAwait.exe.config
+C:\VS2010_Projects\TesteAsyncAwait\TesteAsyncAwait\bin\Debug\TesteAsyncAwait.exe
+C:\VS2010_Projects\TesteAsyncAwait\TesteAsyncAwait\bin\Debug\TesteAsyncAwait.pdb
+C:\VS2010_Projects\TesteAsyncAwait\TesteAsyncAwait\obj\Debug\TesteAsyncAwait.csprojResolveAssemblyReference.cache
+C:\VS2010_Projects\TesteAsyncAwait\TesteAsyncAwait\obj\Debug\TesteAsyncAwait.exe
+C:\VS2010_Projects\TesteAsyncAwait\TesteAsyncAwait\obj\Debug\TesteAsyncAwait.pdb
